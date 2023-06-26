@@ -1,1 +1,1 @@
-# js-dictionary
+# Javascript Dictionary
